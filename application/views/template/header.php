@@ -16,7 +16,6 @@
   <!-- CSS Files -->
   <link href="<?php echo base_url('res/material-dashboard-html-v2.1.0') ?>/assets/css/material-dashboard.css" rel="stylesheet" />
   <!-- CSS Just for demo purpose, don't include it in your project -->
-  <link href="<?php echo base_url('res/material-dashboard-html-v2.1.0') ?>/assets/demo/demo.css" rel="stylesheet" />
 
 
 
