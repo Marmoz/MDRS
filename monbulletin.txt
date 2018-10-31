@@ -1,0 +1,22 @@
+array (
+  0 => 
+  array (
+    'nomStudent' => 'Khattabi',
+    'prenomStudent' => 'Hamza',
+    'nomMatiere' => 'Informatique',
+    'nomTeacher' => 'Hochart',
+    'note_S1' => '12',
+    'note_S2' => '121212',
+    'note_Oral' => '12',
+  ),
+  1 => 
+  array (
+    'nomStudent' => 'Khattabi',
+    'prenomStudent' => 'Hamza',
+    'nomMatiere' => 'Anglais',
+    'nomTeacher' => 'Petitet',
+    'note_S1' => '77',
+    'note_S2' => '77',
+    'note_Oral' => '77',
+  ),
+)
